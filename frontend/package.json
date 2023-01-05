@@ -14,7 +14,7 @@
     "react-router": "^4.2.0",
     "react-router-dom": "^4.2.2",
     "react-router-redux": "^5.0.0-alpha.6",
-    "react-scripts": "1.0.17",
+    "react-scripts": "5.0.1",
     "react-toastify": "^3.2.0",
     "reactstrap": "^5.0.0-alpha.3",
     "redux": "^3.6.0",
